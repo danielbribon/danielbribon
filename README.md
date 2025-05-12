@@ -1,6 +1,6 @@
 - 👋 Olá! Eu sou o Daniel
 - 👀 Tenho interesse em desenvolvimento web back-end
-- 🌱 Atualmente estou aprendendo Django e SQL com MySQL
+- 🌱 Atualmente faço faculdade de Engenharia de Software
 - 📫 Contacte-me pelo email: danielbrumattiribon2019@gmail.com
 
 <!---
